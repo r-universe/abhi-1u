@@ -8,3 +8,8 @@
 	url = https://github.com/abhi-1u/rebib
 	shallow = true
 	registered = true
+[submodule "texor"]
+	path = texor
+	url = https://github.com/abhi-1u/texor
+	shallow = true
+	registered = true
